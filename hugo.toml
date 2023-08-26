@@ -42,7 +42,7 @@ publishDir = "docs"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Davide Dunne"
+      logoText = "$ cd ~/"
       logoHomeLink = "/"
     # or
     #
