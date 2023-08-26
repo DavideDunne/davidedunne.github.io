@@ -54,3 +54,8 @@ publishDir = "docs"
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
+
+  [[menu.main]]
+    identifier = "rss"
+    name       = "RSS"
+    url        = "/index.xml"
