@@ -15,19 +15,20 @@
             <pubDate>Sat, 26 Aug 2023 12:38:17 -0600</pubDate>
             
             <guid>https://davidedunne.github.io/posts/historytesting/</guid>
-            <description>This post was written for my cybersecurity class assignment with Ken Bauer</description>
+            <description>This post was written for my cybersecurity class assignment with Ken Bauer
+Since my first semester in school, we&amp;rsquo;ve been encouraged to test our projects with what may be unusual inputs and the ways our project can handle such inputs, such as a very big integer, negative integers or sometimes a zero.
+It is important to notice that in the world we develop where we will face sooner or later a CI/CD working environment, where software must change constantly and teams must constantly communicate, hence there is a big priority in automating repetitive tasks such as testing with unusual inputs in order to quickly and safely integrate team contributions to the project.</description>
             <content type="html"><![CDATA[<p>This post was written for my cybersecurity class assignment with <a href="https://kenbauer.me/">Ken Bauer</a></p>
+<p>Since my first semester in school, we&rsquo;ve been encouraged to test our projects with what may be unusual inputs and the ways our project can handle such inputs, such as a very big integer, negative integers or sometimes a zero.</p>
+<p>It is important to notice that in the world we develop where we will face sooner or later a CI/CD working environment, where software must change constantly and teams must constantly communicate, hence there is a big priority in automating repetitive tasks such as testing with unusual inputs in order to quickly and safely integrate team contributions to the project. Thankfully, Github, the biggest collaborative software development platform has Actions which allows to test PR&rsquo;s and commits through a containerized cloud machine and steps to run the software in a yml file which guarantees there will be no problems in deployment in relation with OS dependencies.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/yfBtjLxn_6k" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+However it is important to take into consideration the fact that it takes that to automate such processes and can be frustrating when starting the project or when team members device environments are too different, it&rsquo;s important to take that into consideration.
+Also, this blog was deployed with Github Actions!</p>
 ]]></content>
-        </item>
-        
-        <item>
-            <title>Examplepost</title>
-            <link>https://davidedunne.github.io/posts/examplepost/</link>
-            <pubDate>Sat, 26 Aug 2023 10:30:40 -0600</pubDate>
-            
-            <guid>https://davidedunne.github.io/posts/examplepost/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
         </item>
         
     </channel>
